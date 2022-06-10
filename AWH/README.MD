@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="./logo/Tinkerhub.png" alt="logo">
-</div>
-
 # Hello folks
 ## Here is the campous cammunity of AWH engineering college
 # Instructions
